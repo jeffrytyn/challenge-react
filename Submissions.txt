@@ -1,7 +1,14 @@
 1. How many hours did you spend on this challenge?
+Around 2 hours.
 
 2. Describe the features you have implemented.
+Implement all required features, as well as an error message if you try to submit before answering all questions.
 
 3. Describe the difficulties you faced (if any) while working on the challenge and how you tackled them.
+Difficulties implementing some additional touches e.g. autoscroll after submission due to React lifecycle behavior. 
+Also thought about how to implement tracking what questions were answered. Ended up using an array for state, but
+would look into Redux/other state-management to improve scalability. I also considered doing a different style of form
+e.g. a carousel but felt that hindered usability.
 
 4. How much time you can spend each week working for DP Developers?
+About 2-3 hrs on average.

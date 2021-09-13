@@ -1,0 +1,16 @@
+.question-option{
+  border: 2px solid #F1F1F1;
+  border-radius: 6px;
+  padding: 1em;
+}
+
+.question-option:hover{
+  background-color: #6e93c2;
+  color: #FFFFFF;
+}
+
+.clicked{
+  background-color: #6ea3e6;
+  border-color: #3b769c;
+  color: #FFFFFF
+}

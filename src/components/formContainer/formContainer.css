@@ -1,0 +1,16 @@
+.formButton{
+  width: 100%;
+}
+body{
+  font-family: 'Playfair Display', serif;
+  background-color: #f0ede6;
+}
+
+.formContainer{
+  background-color: #FFFFFF;
+}
+
+.quiz-result{
+  font-size: 1.5rem;
+  font-weight: 500;
+}
