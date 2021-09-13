@@ -1,6 +1,6 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import FormContainer from './components/formContainer/formContainer'
+import FormContainer from './components/FormContainer/FormContainer'
 
 function App() {
   return (

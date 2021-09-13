@@ -1,7 +1,7 @@
 import React from 'react';
 import Form from 'react-bootstrap/Form';
 
-import './question.css'
+import './Question.css'
 
 function Question(props){
     const options = Object.entries(props.options).map(([k,v], i) => {

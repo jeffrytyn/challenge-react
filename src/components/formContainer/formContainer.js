@@ -1,11 +1,11 @@
 import React from 'react';
 import {Button, Container, Jumbotron} from 'react-bootstrap';
-import Question from "../question/question";
-import ErrorModal from "../errorModal/errorModal";
+import Question from "../Question/Question";
+import ErrorModal from "../ErrorModal/ErrorModal";
 import data from '../../data.json';
 import {mode} from "../../helpers";
 
-import './formContainer.css';
+import './FormContainer.css';
 
 class FormContainer extends React.Component{
   constructor(props){
